@@ -3,9 +3,9 @@ This is a machine learning project that attempts to predict a shelter animal's o
 
 Please view the **Report.pdf** for a full explanation of scope, data, methods, and results.  
 
-Models Explored: *Naive Bayes, Multinomial Logistic Regression, K-Nearest Neighbors, Support Vector Machines, Random Forests, Multilayer Perceptron*.  
-Animal Outcomes: *Adoption* , *Death, Euthanasia, Returned to owner, and transfer to a different facility*.  
-Features present: *Breed, Fur color, Spayed vs. Intact, Gender, and Age upon exit of the shelter*.  
+**Models Explored**: *Naive Bayes, Multinomial Logistic Regression, K-Nearest Neighbors, Support Vector Machines, Random Forests, Multilayer Perceptron*.  
+**Animal Outcomes**: *Adoption* , *Death, Euthanasia, Returned to owner, and transfer to a different facility*.  
+**Features present**: *Breed, Fur color, Spayed vs. Intact, Gender, and Age upon exit of the shelter*.  
 
 Kaggle page: https://www.kaggle.com/c/shelter-animal-outcomes  
 CSV Files: train.csv, test.csv, sample_submission.csv
